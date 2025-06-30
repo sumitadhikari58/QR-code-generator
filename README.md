@@ -13,7 +13,8 @@
 <li>CSS</li>
 </ul><ul>
 <li>JavaScript</li>
-</ul><h2>Setup</h2>
+</ul><h2>Screenshots</h2>
+<hr><p><img src="https://github.com/sumitadhikari58/QR-code-generator/blob/main/SS/SS1.png" alt=""></p><p><img src="https://github.com/sumitadhikari58/QR-code-generator/blob/main/SS/SS2.png" alt=""></p><h2>Setup</h2>
 <hr><pre><code>•	A modern web browser
 •	No additional dependencies
 </code></pre><h5>Steps</h5><ul>
