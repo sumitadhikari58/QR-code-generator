@@ -36,9 +36,9 @@
 </ol>
 </li>
 </ul><h2>Usage</h2>
-<hr><pre><code>•	Enter any text or URL in the input field
-•	Click the Generate QR Code button
-•	The QR code is instantly displayed
+<hr><pre><code>Enter any text or URL in the input field
+Click the Generate QR Code button
+The QR code is instantly displayed
 </code></pre><h2>Project Status</h2>
 <hr><p>Completed — Fully functional and deployed on GitHub Pages.</p><h2>Acknowledgement</h2>
 <hr><ul>
